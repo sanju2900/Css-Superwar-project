@@ -1,3 +1,6 @@
+SOLUTION OF BELOW PICTURE
+
+
 ![Image description](https://i1.faceprep.in/ProGrad/face-logo-resized.png)
 
 # ProGrad Lab | Superwars Stage 1
